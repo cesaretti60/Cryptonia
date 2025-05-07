@@ -38,6 +38,12 @@ We are building Cryptonia together. Whether you're a:
 
 … there’s a place for you in the Kingdom.
 
+## ✨ Start Here: Welcome to Cryptonia
+
+Read the full story, vision and experience of Cryptonia in our immersive pitch document:
+
+👉 [Welcome to Cryptonia](./WELCOME.md)
+
 ## 🤝 Join the Community
 
 - 🌐 Website: [cryptonia.org](https://cryptonia.org/EN/)

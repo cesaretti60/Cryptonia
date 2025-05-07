@@ -48,11 +48,11 @@ Read the full story, vision and experience of Cryptonia in our immersive pitch d
 
 Whether you're a curious explorer or ready to become a Noble, the Citizen’s Handbook is your complete guide to life in Cryptonia.
 Inside, you'll find:
-How to join and rise within a Guild
-How to organize or participate in events
-How to earn, spend, and govern with KingCoin (KGC)
-How to rise from commoner to Duke
-Rules of honor, DAO processes, and epic quests
+- How to join and rise within a Guild
+- How to organize or participate in events
+- How to earn, spend, and govern with KingCoin (KGC)
+- How to rise from commoner to Duke
+- Rules of honor, DAO processes, and epic quests
 
 👉 [Read the Citizen’s Handbook](https://github.com/cesaretti60/Cryptonia/blob/main/Cryptonia%20Citizen's%20Handbook.pdf)
 

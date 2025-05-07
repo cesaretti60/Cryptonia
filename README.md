@@ -42,7 +42,7 @@ We are building Cryptonia together. Whether you're a:
 
 Read the full story, vision and experience of Cryptonia in our immersive pitch document:
 
-👉 [Welcome to Cryptonia](./WELCOME.md)
+👉 [Welcome to Cryptonia](./Pitch - Welome to Cryptonia.pdf)
 
 ## 🤝 Join the Community
 

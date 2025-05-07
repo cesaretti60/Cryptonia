@@ -40,7 +40,7 @@ We are building Cryptonia together. Whether you're a:
 
 ## 🤝 Join the Community
 
-- 🌐 Website: [cryptonia.org](https://cryptonia.org)
+- 🌐 Website: [cryptonia.org](https://cryptonia.org/EN/)
 - 🗳 DAO Proposals: [dao.cryptonia.org](https://dao.cryptonia.org)
 - 📣 Discord: [Join us](https://discord.gg/cryptonia)
 - 📧 Contact: info@cryptonia.org

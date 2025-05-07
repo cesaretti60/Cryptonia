@@ -49,4 +49,4 @@ Read the full story, vision and experience of Cryptonia in our immersive pitch d
 - 🌐 Website: [cryptonia.org](https://cryptonia.org/EN/)
 - 🗳 DAO Proposals: [dao.cryptonia.org](https://dao.cryptonia.org)
 - 📣 Discord: [Join us](https://discord.gg/cryptonia)
-- 📧 Contact: info@cryptonia.org
+- 📧 Contact: hello@cryptonia.org

@@ -7,7 +7,7 @@ Welcome to **Cryptonia**, a Web3-based micronation where citizens govern themsel
 Cryptonia is a gamified sovereign ecosystem that merges:
 - **DAO governance** for collective decision-making
 - **Smart contracts** to manage lands, titles, and guilds
-- **A fixed-supply token** ($KGC – KingCoin) as the core currency
+- **A fixed-supply token** (KGC – KingCoin) as the core currency
 - **Narrative progression** through Legendary Places and Feudal Politics
 
 Powered by Avalanche blockchain and built for decentralization, Cryptonia is more than a game: it's a living story shaped by its community.

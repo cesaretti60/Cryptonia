@@ -19,7 +19,7 @@ Powered by Avalanche blockchain and built for decentralization, Cryptonia is mor
 - [🪙 White Paper – KingCoin (KGC)](link)
 - [📘 Citizen Manual](https://github.com/cesaretti60/Cryptonia/blob/main/Cryptonia%20Citizen's%20Handbook.pdf)
 - [⚔️ List of Guilds](link)
-- [🌍 Administrative Structure]([link](https://github.com/cesaretti60/Cryptonia/blob/main/Administrative%20Organization%20of%20Cryptonia.pdf)
+- [🌍 Administrative Structure](https://github.com/cesaretti60/Cryptonia/blob/main/Administrative%20Organization%20of%20Cryptonia.pdf)
 
 ## ⚙️ Smart Contract
 

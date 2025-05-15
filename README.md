@@ -59,5 +59,5 @@ Inside, you'll find:
 
 ## 🤝 Join the Community
 
-- 🌐 Website: [cryptonia.org](https://cryptonia.org/EN/)
+- 🌐 Website: [cryptonia.org] (https://www.empowermentlabs.eu/kingdom-of-cryptonia/)
 - 📧 Contact: hello@cryptonia.org
